@@ -35,7 +35,6 @@ Rust (latest stable version)
 
 Cargo (package manager)
 
-(List any other relevant tools or libraries)
 
 ### P.S. 
 Keep an eye out for the occasional "Python nostalgia" moment. It's okay to appreciate where you came from, even as you embrace the future of Rust!
